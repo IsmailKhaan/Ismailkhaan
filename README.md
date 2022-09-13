@@ -24,7 +24,6 @@
   </samp>
 </div>
 </div>
-
 <div> 
    <hr/>
   <h3>Languages and Tools:</h3>
