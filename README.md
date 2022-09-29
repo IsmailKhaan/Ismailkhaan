@@ -3,12 +3,6 @@
 <h4 align="center">A Passionate Frontend Web Developer!</h4>
 </div>
 
-<div align="center">
-  <a href="https://ismailkhan-07.github.io/ismailkhan-07/">
-  <img width="1100" src="https://github.com/ismailkhan-07/ismailkhan-07/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 <sammary>
   <hr/>
   <h1>☎️ contact me</h1>
