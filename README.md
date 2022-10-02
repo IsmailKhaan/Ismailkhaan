@@ -31,12 +31,6 @@
       <br/>
         <div align="center">
           <a href="https://github.com/ismailkhan-07">
-          <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailkhan-07&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="ismailkhan-07's :: Top Langs" /></a>
-        </div>
-        <div align="center">
-          <a href="https://github.com/ismailkhan-07">
-          <img width="70%" src="https://github-readme-stats.vercel.app/api?username=ismailkhan-07&show_icons=true&theme=gruvbox&hide_border=true" />
-            <br>
           <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ismailkhan-07&theme=gruvbox&hide_border=true" />
           </a>
        </div>
