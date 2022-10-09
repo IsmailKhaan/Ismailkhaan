@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://ismailkhan-07.github.io" rel="nofollow">ISMAIL!</a><img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"></h1>
+<h1 align="center">Hi there, I'm <a href="https://IsmailKhaan.github.io" rel="nofollow">ISMAIL!</a><img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"></h1>
 
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="20%" width="20%"><img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="20%" width="20%"></p>
 
@@ -12,7 +12,7 @@
   <samp>
     <h2 align="center">Meet me here 👇👇</h2>
     <p dir="auto" align="center">
-<a href="https://twitter.com/Ismail_K_07" rel="nofollow"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ismailkhan-07" style="max-width: 100%;" width="40" height="30" align="middle"></a>
+<a href="https://twitter.com/Ismail_K_07" rel="nofollow"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="IsmailKhaan" style="max-width: 100%;" width="40" height="30" align="middle"></a>
 <a href="https://www.linkedin.com/in/ismail-khan-092696219/" rel="nofollow"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/usama-altaf-2475211ab/" style="max-width: 100%;" width="40" height="30" align="middle"></a>
 <a href="https://www.facebook.com/profile.php?id=100017984352540" rel="nofollow"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="usama.altaf.940" style="max-width: 100%;" width="40" height="30" align="middle"></a>
 <a href="https://www.instagram.com/_ismile_khan" rel="nofollow"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="usamaaltaf.22" style="max-width: 100%;" width="40" height="30" align="middle"></a>
@@ -30,8 +30,8 @@
     <h2 align="center"> 📊 Github stats </h2>
       <br/>
         <div align="center">
-          <a href="https://github.com/ismailkhan-07">
-          <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ismailkhan-07&theme=gruvbox&hide_border=true" />
+          <a href="https://github.com/IsmailKhaan">
+          <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=IsmailKhaan&theme=gruvbox&hide_border=true" />
           </a>
        </div>
      <br>
@@ -43,5 +43,5 @@
   <h1>📈 Activity Graph</h1>
   <br/>
   <h2 align="center"> my current activity </h2>
-<a href="https://github.com/ismailkhan-07/github-readme-activity-graph"><img alt="ismailkhan-07's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=ismailkhan-07&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+<a href="https://github.com/IsmailKhaan/github-readme-activity-graph"><img alt="IsmailKhaan's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=IsmailKhaan&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 </div>
