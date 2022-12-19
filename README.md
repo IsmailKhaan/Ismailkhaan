@@ -38,10 +38,3 @@
   </div>    
 </div>
 
-<div>
-   <hr/>
-  <h1>📈 Activity Graph</h1>
-  <br/>
-  <h2 align="center"> my current activity </h2>
-<a href="https://github.com/IsmailKhaan/github-readme-activity-graph"><img alt="IsmailKhaan's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=IsmailKhaan&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
-</div>
