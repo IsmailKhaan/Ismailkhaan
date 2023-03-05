@@ -4,7 +4,6 @@
 
 <h4 align="center">A Passionate Full Stack Web Developer!</h4>
 
-
 <sammary>
   <hr/>
 
