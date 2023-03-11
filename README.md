@@ -36,7 +36,7 @@
      <br>
   </div> 
   <div>
-    <h2 align="center"> 📊 Github stats </h2>
+    <h2 align="center"> 🏆 Github Profile Trophies </h2>
       <br/>
         <div align="center">
           <a href="https://github.com/IsmailKhaan">
