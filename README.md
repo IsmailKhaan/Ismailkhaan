@@ -34,6 +34,16 @@
           </a>
        </div>
      <br>
-  </div>    
+  </div> 
+  <div>
+    <h2 align="center"> 📊 Github stats </h2>
+      <br/>
+        <div align="center">
+          <a href="https://github.com/IsmailKhaan">
+          <img width="70%" src="https://github-profile-trophy.vercel.app/?username=IsmailKhaan&theme=onedark" />
+          </a>
+       </div>
+     <br>
+  </div>
 </div>
 
