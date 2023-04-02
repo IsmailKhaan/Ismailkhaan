@@ -3,10 +3,8 @@
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="20%" width="20%"><img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="20%" width="20%"></p>
 
 <h4 align="center">A Passionate Full Stack Web Developer!</h4>
-
 <sammary>
   <hr/>
-
 <sammary>
   <samp>
     <h2 align="center">Meet me here 👇👇</h2>
