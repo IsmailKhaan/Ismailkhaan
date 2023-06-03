@@ -1,10 +1,8 @@
 <h1 align="center">Hi there, I'm <a href="https://IsmailKhaan.github.io" rel="nofollow">ISMAIL!</a><img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"></h1>
 
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="20%" width="20%"><img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="20%" width="20%"></p>
-
 <h4 align="center">A Passionate Full Stack Web Developer!</h4>
 <sammary>
-
   <hr/>
 <sammary>
   <samp>
