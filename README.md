@@ -1,45 +1,90 @@
-<h1 align="center">Hi there, I'm <a href="https://IsmailKhaan.github.io" rel="nofollow">ISMAIL!</a><img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"></h1>
-<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="20%" width="20%"><img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="20%" width="20%"></p>
-<h4 align="center">A Passionate Full Stack Web Developer!</h4>
-<sammary>
-  <hr/>
-<sammary>
-  <samp>
-    <h2 align="center">Meet me here 👇👇</h2>
-    <p dir="auto" align="center">
-<a href="https://twitter.com/Ismail_K_07" rel="nofollow"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="IsmailKhaan" style="max-width: 100%;" width="40" height="30" align="middle"></a>
-<a href="https://www.linkedin.com/in/ismail-khan-092696219/" rel="nofollow"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/usama-altaf-2475211ab/" style="max-width: 100%;" width="40" height="30" align="middle"></a>
-<a href="https://www.facebook.com/profile.php?id=100017984352540" rel="nofollow"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="usama.altaf.940" style="max-width: 100%;" width="40" height="30" align="middle"></a>
-<a href="https://www.instagram.com/_ismile_khan" rel="nofollow"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="usamaaltaf.22" style="max-width: 100%;" width="40" height="30" align="middle"></a>
-</p>
-  </samp>
-</div>
-</div>
-<div> 
-   <hr/>
-  <h3>Languages and Tools:</h3>
-  <p dir="auto" align="center">  <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" style="max-width: 100%;" width="45" height="45"> </a> <a href="https://firebase.google.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" alt="firebase" data-canonical-src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="max-width: 100%;" width="45" height="45"> </a> <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" style="max-width: 100%;" width="45" height="45"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" style="max-width: 100%;" width="45" height="45"> </a> <a href="https://www.mongodb.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" style="max-width: 100%;" width="45" height="45"> </a> <a href="https://www.mysql.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" style="max-width: 100%;" width="45" height="45"> </a> <a href="https://nodejs.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" style="max-width: 100%;" width="45" height="45"> </a> <a href="https://reactjs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" style="max-width: 100%;" width="45" height="45"> </a> <a href="https://redux.js.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" style="max-width: 100%;" width="45" height="45"> </a> <a href="https://sass-lang.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" style="max-width: 100%;" width="45" height="45"> </a>  <a href="https://tailwindcss.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/5734d0669fe22ce04a1cb989a156cd32c379875f6bca56d5210c9432824856d9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667" alt="tailwind" data-canonical-src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="max-width: 100%;" width="45" height="45"> </a><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/5d6bd5caa91b0cc83df372c1a2c23c15a8a6a3c63bbffb4b2fb54e406cce9fc4/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3733332f3733333630392e706e67"><img src="https://camo.githubusercontent.com/5d6bd5caa91b0cc83df372c1a2c23c15a8a6a3c63bbffb4b2fb54e406cce9fc4/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3733332f3733333630392e706e67" style="max-width: 100%;" width="45" height="45"></a> <a href="https://www.typescriptlang.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" style="max-width: 100%;" width="45" height="45"> </a> </p>
-    <hr/>
-  <h1>💻 GitHub Profile Stats</h1>
-  <div>
-    <h2 align="center"> 📊 Github stats </h2>
-      <br/>
-        <div align="center">
-          <a href="https://github.com/IsmailKhaan">
-          <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=IsmailKhaan&theme=gruvbox&hide_border=true" />
-          </a>
-       </div>
-     <br>
-  </div> 
-  <div>
-    <h2 align="center"> 🏆 Github Profile Trophies </h2>
-      <br/>
-        <div align="center">
-          <a href="https://github.com/IsmailKhaan">
-          <img width="70%" src="https://github-profile-trophy.vercel.app/?username=IsmailKhaan&theme=onedark" />
-          </a>
-       </div>
-     <br>
-  </div>
-</div>
+<!-- Banner -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Ismail+Khan;Full+Stack+Web+%26+Mobile+App+Developer;React.js+%7C+Next.js+%7C+Flutter+%7C+Node.js;Building+Scalable+%26+High-Performance+Apps;Open+to+Collaboration+and+New+Opportunities">
+</h1>
 
+
+
+<p align="center">
+  <a href="https://ismailkhaan.github.io">
+    <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="Coding animation"/>
+  </a>
+</p>
+
+---
+
+### 💫 About Me
+
+- 🧑‍💻 **Full-Stack Web & Mobile App Developer** with 5+ years’ experience.  
+- 🚀 Delivered projects with **React.js, Next.js, Vue.js, Flutter, Node.js, Laravel**.  
+- 🌍 Currently working at **Abou Naja Intellectual Property (Dubai, UAE)** on ERP systems, AI assistants, and CRM platforms.  
+- 🛠 Skilled in **state management (Redux, Redux-Saga, TanStack Query, Vuex, Provider)** and **cloud deployments (Firebase, AWS, GitHub Actions, Jenkins, Azure DevOps)**.  
+- 📈 Passionate about **performance optimization, clean UI/UX, real-time features, and scalable architecture**.  
+- 🌐 Portfolio: [ismailkhaan.github.io](https://ismailkhaan.github.io)  
+- 📍 Based in **Dubai, UAE** — open to collaborations & exciting opportunities.  
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ismail-khaan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/Ismail_K_07"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.instagram.com/_ismile_khan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100017984352540"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://github.com/IsmailKhaan"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+### 🛠 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
+
+---
+
+### 🚀 Key Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🏢 **Abounaja ERP System** | Enterprise Resource Planning with 7 modules (CRM, HR, Accounts, IP, Mail, Watch, Core) + AI assistant (ANIA), role-based access, real-time chat, multi-language support. | React.js, TypeScript, Material-UI, Laravel, Vite, React Query |
+| 🎮 **Winlok Entertainment** | Cross-platform gaming platform with VIP dashboards, authentication, secure banking (crypto + transfers), real-time sockets. | Vue.js, Vuex, Sass, Flutter, Provider |
+| 📧 **Mailavail** | SaaS email verification platform with real-time sockets, bulk/single checks, scoring, and exports. | React.js, Tailwind, GraphQL, Node.js, MongoDB |
+| 🖥 **Capregsoft Portfolio** | Responsive portfolio & CMS admin panel for corporate website. | Next.js, Tailwind, Redux, Node.js, MongoDB |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IsmailKhaan&show_icons=true&theme=gruvbox" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsmailKhaan&theme=gruvbox&hide_border=true" width="49%"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=IsmailKhaan&theme=gruvbox&row=1&column=6&no-frame=true"/>
+</p>
+
+---
+
+<p align="center">
+  <sub>“Crafting scalable apps with clean code & intuitive design — let’s build something impactful together.”</sub><br/>
+  <img src="https://media.giphy.com/media/d9IfL7seBexHLct75B/giphy.gif" width="150" alt="animated rocket"/>
+</p>
